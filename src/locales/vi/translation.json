@@ -1,0 +1,86 @@
+{
+  "common": {
+    "dashboard": "dashboard",
+    "settings": "Setting",
+    "profile": "Profile",
+    "languages": "Languages",
+    "btnClose": "Close",
+    "login": "Login",
+    "home": "Home",
+    "backHomePage": "Back to home page",
+    "business": "Business",
+    "system": "System",
+    "logout": "Logout",
+    "btnEdit": "Edit",
+    "btnDelete": "Delete",
+    "addSuccess": "Add successfully",
+    "error": "Ops, have something wrong, pls check again !!!"
+  },
+  "login": {
+    "welcome": "Welcome to BOOST PTE",
+    "title": "Login to system",
+    "options": "Input account information to input below",
+    "or": "or",
+    "username": "Username",
+    "password": "Password",
+    "btnLogin": "Login",
+    "errorUsername": "Pls input username",
+    "errorPassword": "Pls input password",
+    "loginSuccess": "You login successfully",
+    "logoutSuccess": "You logout successfully",
+    "userPassInvalid": "Username or password Incorrect !!!",
+    "sectionTimeout": "Section timeout, Pls login again!!!"
+  },
+  "landing-page": {
+    "accordion": {
+      "speaking": {
+        "title": "PTE Speaking Guide",
+        "heading-1": "Read Aloud",
+        "details-1": "This question type is the 1st one in the Speaking Section. Test takers will see a textual passage before they are given 40 seconds for preparation and another 40 seconds for reading the passage aloud, and their responses will be recorded only once. This question type usually consists of 6 or 7 questions.",
+        "heading-2": "Repeat Sentence",
+        "details-2": "This question type is the 3rd one in the Speaking Section. Test takers will see a picture( of map, flow chart, table, bar chart, pie chart, line chart, etc.) , and are supposed to deliver a description of what they see in it within 40 seconds after a preparation of 25 seconds. The answer will be recorded once. This question type usually consists of 3 or 4 questions.",
+        "heading-3": "Describe Image",
+        "details-3": "This question type is the 3rd one in the Speaking Section. Test takers will see a picture( of map, flow chart, table, bar chart, pie chart, line chart, etc.) , and are supposed to deliver a description of what they see in it within 40 seconds after a preparation of 25 seconds. The answer will be recored once. This question type usually consists of 3 or 4 questions.",
+        "heading-4": "Retell Lecture",
+        "details-4": "This question type is the 4th one in the Speaking Section. Test takers will hear a lecture of about 1 minute before they have 10 seconds for organizing what they have noted down from the lecture and they have 40 seconds for retelling what the lecturer has mainly talked about. Their response will be recorded only once. This question type usually consists of 1 or 2 questions.",
+        "heading-5": "Answer Short Question",
+        "details-5": "This question type is the 5th one in the Speaking Section. Test takers will be asked with a question about common sense, and are supposed to answer just one word or a very simple phrase. This question type usually consist of 5 to 6 questions."
+      },
+      "writing": {
+        "title": "PTE Writing Guide",
+        "heading-1": "Summarize Written Text",
+        "details-1": "SWT is the 1st one in the Writing Section. Test takers will see a textual passage before they are given 10 minutes to write down their one-sentence summaries of the text. The word limit of the response is 5 - 75. In exam, there are 1 to 2 questions of SWT.",
+        "heading-2": "Write Essay",
+        "details-2": "SWT is the 1st one in the Writing Section. Test takers will see a textual passage before they are given 10 minutes to write down their one-sentence summaries of the text. The word limit of the response is 5 - 75. In exam, there are 1 to 2 questions of SWT."
+      },
+      "reading": {
+        "title": "PTE Reading Guide",
+        "heading-1": "Fill in Blank (R & W)",
+        "details-1": "This question type is usually the 4th one in the Reading Section. Test takers will see a textual passage of 300 or so words containing several blanks.Each blank has a drop-down word list with 4 options in it, and test takers are required to choose the most suitable option from each drop-down list for each blank.This question type usually consists of 5 or 6 tasks..",
+        "heading-2": "Reading Multiple Choices Multiple Answers",
+        "details-2": "Test takers will see a textual passage of 200 to 300 words, together with a question and 5 to 7 choices, and are required to answer the question by choosing the correct choice according to the passage. This question type usually consists of 1 or 2 questions.",
+        "heading-3": "Re-order Paragraphs",
+        "details-3": "Usually this question type is the 3rd one in the Reading Section. Test takers will see a textual passage consisting of shuffled paragraphs,and this question type usually consists 2 or 3 questions.",
+        "heading-4": "Fill in Blank (R)",
+        "details-4": "Introduction of the Question Type This question type is usually the 1st one in the Reading Section.Test takers will see 4 or 5 textual passages, 80 or so words with 3 to 5 blanks and 6 to 8 choices listed below.Test takers are required to use grammar clues, choose correct words and drag them into correct blanks.",
+        "heading-5": "Reading Multiple Choices Single Answer",
+        "details-5": "Test takers will see a textual passage of 100 words, together with a question and some choices, and are required to answer the question by choosing the correct choice according to the passage. This question type usually consists of 1 or 2 questions."
+      },
+      "listening": {
+        "title": "PTE Listening Guide",
+        "heading-1": "Summarize Spoken Text",
+        "details-1": "Test takers will usually hear a lecture / dialogue（60s - 90s）before they are required to write a summary of what they have just heard. The word limit is 50 to 70 words. 10 minutes are given for each question. In exam, there are 1 to 2 SST questions.",
+        "heading-2": "Listening Multiple Choices Multiple Answers",
+        "details-2": "Test takers will usually hear a lecture / dialogue（60s - 90s）before they are required to write a summary of what they have just heard. The word limit is 50 to 70 words. 10 minutes are given for each question. In exam, there are 1 to 2 SST questions.",
+        "heading-3": "Fill in Blank (R & W)",
+        "details-3": "Test takers will usually hear a audio clip and see a textual passage with blanks, before required to write a correct word down in each blank according to the audio clip. This question type usually consists of 2 or 3 tasks.",
+        "heading-4": "Multiple Choices Single Answer Listening",
+        "details-4": "Test takers will usually hear a audio clip and see a textual passage with blanks, before required to write a correct word down in each blank according to the audio clip. This question type usually consists of 2 or 3 tasks.",
+        "heading-5": "Select Missing Words",
+        "details-5": "Test takers will usually hear a audio clip and see a textual passage with blanks, before required to write a correct word down in each blank according to the audio clip. This question type usually consists of 2 or 3 tasks.",
+        "heading-6": "Highlight Incorrect Words",
+        "details-6": "Test takers will usually hear a audio clip and see a textual passage with blanks, before required to write a correct word down in each blank according to the audio clip. This question type usually consists of 2 or 3 tasks."
+      }
+    }
+  }
+}
